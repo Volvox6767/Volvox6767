@@ -23,6 +23,16 @@
 | **[heic2jpg](https://github.com/Volvox6767/heic2jpg)** | FotoÇevir | iPhone HEIC fotoğraflarını JPG'ye çevirir — *Convert iPhone HEIC photos to JPG, offline* |
 | **[pdfsplice](https://github.com/Volvox6767/pdfsplice)** | PDFBirleştir | PDF birleştirme, bölme, sayfa çıkarma — *Merge, split & extract PDF pages* |
 | **[spacehog](https://github.com/Volvox6767/spacehog)** | DiskDomuzu | "Disk alanı nereye gitti?" — *Find what is eating your disk space* |
+| **[yenisim](https://github.com/Volvox6767/yenisim)** | YeniSim | Toplu dosya yeniden adlandırıcı — önce önizleme — *Bulk file renamer, dry-run by default* |
+
+## 🌐 Tarayıcı araçları / Browser tools
+
+**Kurulum yok — linki aç, kullan. / No install — open the link, use it.**
+
+- **[qrolustur](https://github.com/Volvox6767/qrolustur)** *(QRDüzen)* — Link & WiFi QR üretici: misafir okutur, telefon WiFi'ye bağlanır — *QR generator for links & WiFi, offline, never expires*
+  **▶ Aç / Open: https://volvox6767.github.io/qrolustur/**
+- **[sifreci](https://github.com/Volvox6767/sifreci)** *(Şifre)* — Kriptografik rastgele şifre üretici; internet kapalıyken bile çalışır — *Crypto-random password generator, nothing ever sent*
+  **▶ Aç / Open: https://volvox6767.github.io/sifreci/**
 
 ## 🎮 Oyunlar / Games
 
