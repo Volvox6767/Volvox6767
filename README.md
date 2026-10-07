@@ -29,8 +29,6 @@
 > **[kelimen](https://github.com/Volvox6767/kelimen)** *(YourWord)* — Türkçe günlük kelime bulmacası. Herkes aynı kelimeyi bilir, sonucunu 🟩🟨⬜ emojiyle paylaş.
 > **▶ Oyna / Play: https://volvox6767.github.io/kelimen/**
 
-- **[bilfen-games](https://github.com/Volvox6767/bilfen-games)** — Tarayıcıda 3D oyunlar (Three.js): Deniz Dibi Cop Avcısı, ROBİ Kovalamaca, ROBİ Pacman — *3D browser games for kids*
-
 ## 🤖 AI
 
 - **[FaceSwap](https://github.com/Volvox6767/FaceSwap)** *(YüzDeğiştir)* — Tamamen tarayıcıda çalışan yüz değiştirme; model sunucusuz, veri göndermeden (ONNX Runtime Web) — *In-browser face swap, nothing ever uploaded*
