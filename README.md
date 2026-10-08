@@ -19,6 +19,9 @@
 | 🟩 **[kelimen](https://github.com/Volvox6767/kelimen)** | YourWord | Günlük Türkçe kelime bulmacası + ⚔️ arkadaşına meydan okuma — *Turkish daily word game + challenge a friend* · **[▶ Oyna / Play](https://volvox6767.github.io/kelimen/)** |
 | 📱 **[qrolustur](https://github.com/Volvox6767/qrolustur)** | QRDüzen | Link & WiFi QR kodu üret — misafir okutur, WiFi'ye bağlanır — *QR generator for links & WiFi, never expires* · **[▶ Aç / Open](https://volvox6767.github.io/qrolustur/)** |
 | 🔐 **[sifreci](https://github.com/Volvox6767/sifreci)** | Şifre | Kriptografik rastgele şifre üretici — internet kapalıyken bile — *crypto-random password generator, nothing sent* · **[▶ Aç / Open](https://volvox6767.github.io/sifreci/)** |
+| ⚖️ **[metinfark](https://github.com/Volvox6767/metinfark)** | MetinFark | İki metni satır satır karşılaştır, farkları renkli gör — *line-by-line text diff, nothing uploaded* · **[▶ Aç / Open](https://volvox6767.github.io/metinfark/)** |
+| 📐 **[birimcevir](https://github.com/Volvox6767/birimcevir)** | BirimÇevir | Uzunluk, ağırlık, sıcaklık, hacim, veri, hız birimlerini çevir — *offline unit converter incl. Turkish tea glass!* · **[▶ Aç / Open](https://volvox6767.github.io/birimcevir/)** |
+| ⌨️ **[yazmahizi](https://github.com/Volvox6767/yazmahizi)** | YazmaHızı | Türkçe/İngilizce kelimeyle klavye hızını ölç (WPM, doğruluk) — *offline typing speed test* · **[▶ Aç / Open](https://volvox6767.github.io/yazmahizi/)** |
 
 ## 🧰 Masaüstü araçları / CLI tools — *tek dosya / single file*
 
